@@ -1,4 +1,4 @@
-#Three Body Problem and Planetary Motion Simulations
+# Three Body Problem and Planetary Motion Simulations
 
 Planetary motion simulations use Runge Kutta method and Euler's method to calculate the trajectory of planetary object in 2D and 3D. 
 
